@@ -47,7 +47,8 @@ export default function Login() {
   `;
 
   const FormContainerWrapper = styled.div`
-    // border: 0.5px solid red;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius:5px;
     height: 90%;
     width: 90%;
     display: flex;
